@@ -1,0 +1,795 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DD3A86E62AA4176D00A97E41 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD3A86E52AA4176D00A97E41 /* main.swift */; };
+		DD3A86ED2AA4287900A97E41 /* TinkoffTask1.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD3A86EC2AA4287900A97E41 /* TinkoffTask1.swift */; };
+		DD3A86EF2AA43E2100A97E41 /* TinkoffTask2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD3A86EE2AA43E2100A97E41 /* TinkoffTask2.swift */; };
+		DD3ECFA22AB2ACDB00B77A9F /* 2744. Find Maximum Number of String Pairs. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD3ECFA12AB2ACDB00B77A9F /* 2744. Find Maximum Number of String Pairs. LeetCode.swift */; };
+		DD8856CE2AAEAEB9009EB9ED /* 1832. Check if the Sentence Is Pangram. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8856CD2AAEAEB9009EB9ED /* 1832. Check if the Sentence Is Pangram. LeetCode.swift */; };
+		DD8856D02AAEB0BA009EB9ED /* 2828. Check if a String Is an Acronym of Words. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8856CF2AAEB0BA009EB9ED /* 2828. Check if a String Is an Acronym of Words. LeetCode.swift */; };
+		DD8856D22AAEBB25009EB9ED /* 804. Unique Morse Code Words. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8856D12AAEBB25009EB9ED /* 804. Unique Morse Code Words. LeetCode.swift */; };
+		DD88E21D2AE7644C00F7C66B /* 2562. Find the Array Concatenation Value. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD88E21C2AE7644C00F7C66B /* 2562. Find the Array Concatenation Value. LeetCode.swift */; };
+		DD896BF12AE60E0C003BE371 /* 922. Sort Array By Parity II. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD896BF02AE60E0C003BE371 /* 922. Sort Array By Parity II. LeetCode.swift */; };
+		DD8C37522AECAC5A006B3536 /* 283. Move Zeroes. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8C37512AECAC5A006B3536 /* 283. Move Zeroes. LeetCode.swift */; };
+		DD8CBCF62AB6893200F73C0B /* 1436. Destination City. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8CBCF52AB6893200F73C0B /* 1436. Destination City. LeetCode.swift */; };
+		DD8CBCF82AB694F200F73C0B /* 1941. Check if All Characters Have Equal Number of Occurrences. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8CBCF72AB694F200F73C0B /* 1941. Check if All Characters Have Equal Number of Occurrences. LeetCode.swift */; };
+		DD8CBCFA2AB6EE5800F73C0B /* 2586. Count the Number of Vowel Strings in Range. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8CBCF92AB6EE5800F73C0B /* 2586. Count the Number of Vowel Strings in Range. LeetCode.swift */; };
+		DD8CBCFC2AB6F25900F73C0B /* 2278. Percentage of Letter in String. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8CBCFB2AB6F25900F73C0B /* 2278. Percentage of Letter in String. LeetCode.swift */; };
+		DD8D113C2AD79BCB0064DD40 /* 1768. Merge Strings Alternately. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8D113B2AD79BCB0064DD40 /* 1768. Merge Strings Alternately. LeetCode.swift */; };
+		DD8D7C052ABBD98C00A682D9 /* 2085. Count Common Words With One Occurrence. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8D7C042ABBD98C00A682D9 /* 2085. Count Common Words With One Occurrence. LeetCode.swift */; };
+		DD8D7C072ABBE24100A682D9 /* 2309. Greatest English Letter in Upper and Lower Case. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8D7C062ABBE24100A682D9 /* 2309. Greatest English Letter in Upper and Lower Case. LeetCode.swift */; };
+		DD8D7C092ABBED0900A682D9 /* 2506. Count Pairs Of Similar Strings. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8D7C082ABBED0900A682D9 /* 2506. Count Pairs Of Similar Strings. LeetCode.swift */; };
+		DD8D7C0B2ABBEEE900A682D9 /* PairsAlgorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8D7C0A2ABBEEE900A682D9 /* PairsAlgorithm.swift */; };
+		DD8D7C0D2ABC322300A682D9 /* 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8D7C0C2ABC322300A682D9 /* 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence. LeetCode.swift */; };
+		DD8DD1892AE4C866001D030E /* MergeSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8DD1882AE4C866001D030E /* MergeSort.swift */; };
+		DD8DD18B2AE4C9B4001D030E /* 977. Squares of a Sorted Array. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8DD18A2AE4C9B4001D030E /* 977. Squares of a Sorted Array. LeetCode.swift */; };
+		DD8DD18D2AE4CCEB001D030E /* 349. Intersection of Two Arrays. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8DD18C2AE4CCEB001D030E /* 349. Intersection of Two Arrays. LeetCode.swift */; };
+		DD8E18152AD4EEBC00528D03 /* 2824. Count Pairs Whose Sum is Less than Target. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8E18142AD4EEBC00528D03 /* 2824. Count Pairs Whose Sum is Less than Target. LeetCode.swift */; };
+		DD8E18202AD639A500528D03 /* 2367. Number of Arithmetic Triplets. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8E181F2AD639A500528D03 /* 2367. Number of Arithmetic Triplets. LeetCode.swift */; };
+		DD8E18222AD64F5F00528D03 /* 832. Flipping an Image. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8E18212AD64F5F00528D03 /* 832. Flipping an Image. LeetCode.swift */; };
+		DD8E3B1D2ABFCCB000DB28BD /* 1496. Path Crossing. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8E3B1C2ABFCCB000DB28BD /* 1496. Path Crossing. LeetCode.swift */; };
+		DD8E3B1F2ABFD96500DB28BD /* 599. Minimum Index Sum of Two Lists. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8E3B1E2ABFD96500DB28BD /* 599. Minimum Index Sum of Two Lists. LeetCode.swift */; };
+		DD8E3B212ABFDE8400DB28BD /* 1556. Thousand Separator. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8E3B202ABFDE8400DB28BD /* 1556. Thousand Separator. LeetCode.swift */; };
+		DD8EF6F62AE8B48300C03476 /* 2441. Largest Positive Integer That Exists With Its Negative. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8EF6F52AE8B48300C03476 /* 2441. Largest Positive Integer That Exists With Its Negative. LeetCode.swift */; };
+		DD8F09D82AAAB008007CAD35 /* 1528. Shuffle String LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8F09D72AAAB008007CAD35 /* 1528. Shuffle String LeetCode.swift */; };
+		DD8F09DA2AAABD24007CAD35 /* 1773. Count Items Matching a Rule. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8F09D92AAABD24007CAD35 /* 1773. Count Items Matching a Rule. LeetCode.swift */; };
+		DD8F1F742AD0F7E200EDBF28 /* 1805. Number of Different Integers in a String. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8F1F732AD0F7E200EDBF28 /* 1805. Number of Different Integers in a String. LeetCode.swift */; };
+		DD8F1F762AD0F99800EDBF28 /* 434. Number of Segments in a String. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8F1F752AD0F99800EDBF28 /* 434. Number of Segments in a String. LeetCode.swift */; };
+		DD8F95FA2AB7E46F008FDADF /* 944. Delete Columns to Make Sorted. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8F95F92AB7E46F008FDADF /* 944. Delete Columns to Make Sorted. LeetCode.swift */; };
+		DD8F95FC2AB7E642008FDADF /* TreeAlgorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8F95FB2AB7E642008FDADF /* TreeAlgorithm.swift */; };
+		DD8F95FE2AB8379A008FDADF /* 2255. Count Prefixes of a Given String. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8F95FD2AB8379A008FDADF /* 2255. Count Prefixes of a Given String. LeetCode.swift */; };
+		DD8F96002AB83C46008FDADF /* 1935. Maximum Number of Words You Can Type. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8F95FF2AB83C46008FDADF /* 1935. Maximum Number of Words You Can Type. LeetCode.swift */; };
+		DD8FECBC2AB1478C00676CAE /* TwoPointers.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8FECBB2AB1478C00676CAE /* TwoPointers.swift */; };
+		DD8FECBE2AB1592800676CAE /* 2697. Lexicographically Smallest Palindrome. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8FECBD2AB1592800676CAE /* 2697. Lexicographically Smallest Palindrome. LeetCode.swift */; };
+		DD9045072ACD06040038ADC1 /* 20. Valid Parentheses. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9045062ACD06040038ADC1 /* 20. Valid Parentheses. LeetCode.swift */; };
+		DD9045092ACD11810038ADC1 /* 680. Valid Palindrome II. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9045082ACD11810038ADC1 /* 680. Valid Palindrome II. LeetCode.swift */; };
+		DD908CEA2ADF746D000D389F /* 1332. Remove Palindromic Subsequences. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD908CE92ADF746D000D389F /* 1332. Remove Palindromic Subsequences. LeetCode.swift */; };
+		DD908CEC2ADF7EE7000D389F /* 905. Sort Array By Parity. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD908CEB2ADF7EE7000D389F /* 905. Sort Array By Parity. LeetCode.swift */; };
+		DD90B89E2AB29F4C005475D7 /* 2103. Rings and Rods.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD90B89D2AB29F4C005475D7 /* 2103. Rings and Rods.swift */; };
+		DD90C82C2ABA882100807E0B /* 2124. Check if All A's Appears Before All B's. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD90C82B2ABA882100807E0B /* 2124. Check if All A's Appears Before All B's. LeetCode.swift */; };
+		DD90C82E2ABA905500807E0B /* 500. Keyboard Row. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD90C82D2ABA905500807E0B /* 500. Keyboard Row. LeetCode.swift */; };
+		DD90C8B12ABE8C7A002AFA11 /* 1903. Largest Odd Number in String. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD90C8B02ABE8C7A002AFA11 /* 1903. Largest Odd Number in String. LeetCode.swift */; };
+		DD90C8B32ABE9559002AFA11 /* 520. Detect Capital. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD90C8B22ABE9559002AFA11 /* 520. Detect Capital. LeetCode.swift */; };
+		DD90C8B52ABE985E002AFA11 /* 796. Rotate String. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD90C8B42ABE985E002AFA11 /* 796. Rotate String. LeetCode.swift */; };
+		DD91361A2AC275B500C9C969 /* 844. Backspace String Compare. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9136192AC275B500C9C969 /* 844. Backspace String Compare. LeetCode.swift */; };
+		DD91361C2AC281AE00C9C969 /* 392. Is Subsequence. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD91361B2AC281AE00C9C969 /* 392. Is Subsequence. LeetCode.swift */; };
+		DD91361F2AC2FE0D00C9C969 /* MetroStations.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD91361E2AC2FE0D00C9C969 /* MetroStations.swift */; };
+		DD9136212AC2FE1700C9C969 /* Buildings.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9136202AC2FE1700C9C969 /* Buildings.swift */; };
+		DD9136232AC2FE2C00C9C969 /* Workshop.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9136222AC2FE2C00C9C969 /* Workshop.swift */; };
+		DD9136252AC3077A00C9C969 /* 1576. Replace All ?'s to Avoid Consecutive Repeating Characters. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9136242AC3077A00C9C969 /* 1576. Replace All ?'s to Avoid Consecutive Repeating Characters. LeetCode.swift */; };
+		DD9165E92AE2296600B69F97 /* 2570. Merge Two 2D Arrays by Summing Values. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9165E82AE2296600B69F97 /* 2570. Merge Two 2D Arrays by Summing Values. LeetCode.swift */; };
+		DD918AD62AAD677700AAB541 /* 1859. Sorting the Sentence. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD918AD52AAD677700AAB541 /* 1859. Sorting the Sentence. LeetCode.swift */; };
+		DD918ADB2AADB56E00AAB541 /* 709. To Lower Case. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD918ADA2AADB56E00AAB541 /* 709. To Lower Case. LeetCode.swift */; };
+		DD918ADD2AADBB4A00AAB541 /* 557. Reverse Words in a String III. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD918ADC2AADBB4A00AAB541 /* 557. Reverse Words in a String III. LeetCode.swift */; };
+		DD922ECC2AB3EE0100CCB91B /* 1844. Replace All Digits with Characters. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD922ECB2AB3EE0100CCB91B /* 1844. Replace All Digits with Characters. LeetCode.swift */; };
+		DD922ECE2AB3F4DA00CCB91B /* 2418. Sort the People. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD922ECD2AB3F4DA00CCB91B /* 2418. Sort the People. LeetCode.swift */; };
+		DD922ED02AB3F80400CCB91B /* 1967. Number of Strings That Appear as Substrings in Word. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD922ECF2AB3F80400CCB91B /* 1967. Number of Strings That Appear as Substrings in Word. LeetCode.swift */; };
+		DD922ED22AB4020C00CCB91B /* 2000. Reverse Prefix of Word. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD922ED12AB4020C00CCB91B /* 2000. Reverse Prefix of Word. LeetCode.swift */; };
+		DD922ED42AB46CC500CCB91B /* 2108. Find First Palindromic String in the Array. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD922ED32AB46CC500CCB91B /* 2108. Find First Palindromic String in the Array. LeetCode.swift */; };
+		DD922ED62AB4715C00CCB91B /* 2710. Remove Trailing Zeros From a String. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD922ED52AB4715C00CCB91B /* 2710. Remove Trailing Zeros From a String. LeetCode.swift */; };
+		DD926C802AB9340C00D608B3 /* 1880. Check if Word Equals Summation of Two Words. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD926C7F2AB9340C00D608B3 /* 1880. Check if Word Equals Summation of Two Words. LeetCode.swift */; };
+		DD926C822AB93AD100D608B3 /* 2053. Kth Distinct String in an Array. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD926C812AB93AD100D608B3 /* 2053. Kth Distinct String in an Array. LeetCode.swift */; };
+		DD926C842AB93F3300D608B3 /* 2788. Split Strings by Separator. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD926C832AB93F3300D608B3 /* 2788. Split Strings by Separator. LeetCode.swift */; };
+		DD926C872AB9462400D608B3 /* 2496. Maximum Value of a String in an Array. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD926C862AB9462400D608B3 /* 2496. Maximum Value of a String in an Array. LeetCode.swift */; };
+		DD926C892AB9877F00D608B3 /* 412. Fizz Buzz. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD926C882AB9877F00D608B3 /* 412. Fizz Buzz. LeetCode.swift */; };
+		DD92A6D62AD253CA001C86B2 /* 859. Buddy Strings. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD92A6D52AD253CA001C86B2 /* 859. Buddy Strings. LeetCode.swift */; };
+		DD92C0522AB542970045155B /* 1309. Decrypt String from Alphabet to Integer Mapping. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD92C0512AB542970045155B /* 1309. Decrypt String from Alphabet to Integer Mapping. LeetCode.swift */; };
+		DD92C0542AB54BAE0045155B /* 1812. Determine Color of a Chessboard Square. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD92C0532AB54BAE0045155B /* 1812. Determine Color of a Chessboard Square. LeetCode.swift */; };
+		DD92C0562AB5532A0045155B /* 1374. Generate a String With Characters That Have Odd Counts. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD92C0552AB5532A0045155B /* 1374. Generate a String With Characters That Have Odd Counts. LeetCode.swift */; };
+		DD92C0582AB59A3B0045155B /* 1704. Determine if String Halves Are Alike. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD92C0572AB59A3B0045155B /* 1704. Determine if String Halves Are Alike. LeetCode.swift */; };
+		DD92C05A2AB59B3B0045155B /* 2185. Counting Words With a Given Prefix. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD92C0592AB59B3B0045155B /* 2185. Counting Words With a Given Prefix. LeetCode.swift */; };
+		DD92C05C2AB59E390045155B /* 344. Reverse String. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD92C05B2AB59E390045155B /* 344. Reverse String. LeetCode.swift */; };
+		DD936FF12AD8E2C70094257B /* 942. DI String Match. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD936FF02AD8E2C70094257B /* 942. DI String Match. LeetCode.swift */; };
+		DD93B8932AC90421007AE823 /* 125. Valid Palindrome. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD93B8922AC90421007AE823 /* 125. Valid Palindrome. LeetCode.swift */; };
+		DD93B8952AC91942007AE823 /* 2609. Find the Longest Balanced Substring of a Binary String. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD93B8942AC91942007AE823 /* 2609. Find the Longest Balanced Substring of a Binary String. LeetCode.swift */; };
+		DD93BA132ACBAD88000F3F3F /* 819. Most Common Word. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD93BA122ACBAD88000F3F3F /* 819. Most Common Word. LeetCode.swift */; };
+		DD93BA152ACBBEBE000F3F3F /* 28. Find the Index of the First Occurrence in a String. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD93BA142ACBBEBE000F3F3F /* 28. Find the Index of the First Occurrence in a String. LeetCode.swift */; };
+		DD9449912ACFB47900F6E1DF /* 1784. Check if Binary String Has at Most One Segment of Ones. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9449902ACFB47900F6E1DF /* 1784. Check if Binary String Has at Most One Segment of Ones. LeetCode.swift */; };
+		DD94E0BD2AAB6C43004FDEA8 /* 2325. Decode the Message. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD94E0BC2AAB6C43004FDEA8 /* 2325. Decode the Message. LeetCode.swift */; };
+		DD95233D2ABD36E500CA14F2 /* 383. Ransom Note. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD95233C2ABD36E500CA14F2 /* 383. Ransom Note. LeetCode.swift */; };
+		DD95233F2ABD414B00CA14F2 /* 389. Find the Difference. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD95233E2ABD414B00CA14F2 /* 389. Find the Difference. LeetCode.swift */; };
+		DD9591FD2ACE46C700D1E5CD /* 168. Excel Sheet Column Title. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9591FC2ACE46C700D1E5CD /* 168. Excel Sheet Column Title. LeetCode.swift */; };
+		DD95E1502AA6B6370088A3A8 /* LeetCodeTwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD95E14F2AA6B6370088A3A8 /* LeetCodeTwoSum.swift */; };
+		DD95E1542AA6C3030088A3A8 /* 13. Roman to Integer. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD95E1532AA6C3030088A3A8 /* 13. Roman to Integer. LeetCode.swift */; };
+		DD9861652AAFF7C200F0B267 /* 1684. Count the Number of Consistent Strings. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9861642AAFF7C200F0B267 /* 1684. Count the Number of Consistent Strings. LeetCode.swift */; };
+		DD9861672AAFFF7200F0B267 /* 2810. Faulty Keyboard. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9861662AAFFF7200F0B267 /* 2810. Faulty Keyboard. LeetCode.swift */; };
+		DD9861692AB00C5200F0B267 /* 2315. Count Asterisks.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9861682AB00C5200F0B267 /* 2315. Count Asterisks.swift */; };
+		DD999EAA2AA80FCD00F90C22 /* DefangIPaddressLeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD999EA92AA80FCD00F90C22 /* DefangIPaddressLeetCode.swift */; };
+		DD999EAC2AA815D500F90C22 /* FinalValueAfterOperationLeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD999EAB2AA815D500F90C22 /* FinalValueAfterOperationLeetCode.swift */; };
+		DD999EAE2AA817A100F90C22 /* numJewelsInStonesLeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD999EAD2AA817A100F90C22 /* numJewelsInStonesLeetCode.swift */; };
+		DD99E2B12AA95B2F000643D6 /* interpretLeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD99E2B02AA95B2F000643D6 /* interpretLeetCode.swift */; };
+		DD99E2B32AA95E69000643D6 /* mostWordsFoundLeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD99E2B22AA95E69000643D6 /* mostWordsFoundLeetCode.swift */; };
+		DD99E2B52AA967AB000643D6 /* 1221. Split a String in Balanced Strings LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD99E2B42AA967AB000643D6 /* 1221. Split a String in Balanced Strings LeetCode.swift */; };
+		DD9BDC682AC11DB000E8BF97 /* 415. Add Strings. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9BDC672AC11DB000E8BF97 /* 415. Add Strings. LeetCode.swift */; };
+		DD9BDC6A2AC1228B00E8BF97 /* 541. Reverse String II. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9BDC692AC1228B00E8BF97 /* 541. Reverse String II. LeetCode.swift */; };
+		DD9BDC6C2AC126FA00E8BF97 /* 1796. Second Largest Digit in a String. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9BDC6B2AC126FA00E8BF97 /* 1796. Second Largest Digit in a String. LeetCode.swift */; };
+		DD9BDC6E2AC12E0B00E8BF97 /* 1154. Day of the Year. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9BDC6D2AC12E0B00E8BF97 /* 1154. Day of the Year. LeetCode.swift */; };
+		DD9BDC702AC1306700E8BF97 /* 551. Student Attendance Record I. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9BDC6F2AC1306700E8BF97 /* 551. Student Attendance Record I. LeetCode.swift */; };
+		DD9C75A92AAC088E007F6C35 /* 2194. Cells in a Range on an Excel Sheet. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9C75A82AAC088E007F6C35 /* 2194. Cells in a Range on an Excel Sheet. LeetCode.swift */; };
+		DD9C75AB2AAC6026007F6C35 /* 1662. Check If Two String Arrays are Equivalent. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9C75AA2AAC6026007F6C35 /* 1662. Check If Two String Arrays are Equivalent. LeetCode.swift */; };
+		DD9C75AD2AAC9888007F6C35 /* 1816. Truncate Sentence. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9C75AC2AAC9888007F6C35 /* 1816. Truncate Sentence. LeetCode.swift */; };
+		DD9DAB442AC7BDFE0073ADB9 /* 58. Length of Last Word. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9DAB432AC7BDFE0073ADB9 /* 58. Length of Last Word. LeetCode.swift */; };
+		DDA562182AD3B8FD00C0442A /* 925. Long Pressed Name. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDA562172AD3B8FD00C0442A /* 925. Long Pressed Name. LeetCode.swift */; };
+		DDC8EFBF2ACA61D3005602A4 /* 1790. Check if One String Swap Can Make Strings Equal. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC8EFBE2ACA61D3005602A4 /* 1790. Check if One String Swap Can Make Strings Equal. LeetCode.swift */; };
+		DDC8EFC12ACA6EBB005602A4 /* 2259. Remove Digit From Number to Maximize Result. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC8EFC02ACA6EBB005602A4 /* 2259. Remove Digit From Number to Maximize Result. LeetCode.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		DD3A86E02AA4176D00A97E41 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		DD3A86E22AA4176D00A97E41 /* AlgorithmsWithBasicInput */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmsWithBasicInput; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD3A86E52AA4176D00A97E41 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		DD3A86EC2AA4287900A97E41 /* TinkoffTask1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinkoffTask1.swift; sourceTree = "<group>"; };
+		DD3A86EE2AA43E2100A97E41 /* TinkoffTask2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinkoffTask2.swift; sourceTree = "<group>"; };
+		DD3ECFA12AB2ACDB00B77A9F /* 2744. Find Maximum Number of String Pairs. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2744. Find Maximum Number of String Pairs. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8856CD2AAEAEB9009EB9ED /* 1832. Check if the Sentence Is Pangram. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1832. Check if the Sentence Is Pangram. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8856CF2AAEB0BA009EB9ED /* 2828. Check if a String Is an Acronym of Words. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2828. Check if a String Is an Acronym of Words. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8856D12AAEBB25009EB9ED /* 804. Unique Morse Code Words. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "804. Unique Morse Code Words. LeetCode.swift"; sourceTree = "<group>"; };
+		DD88E21C2AE7644C00F7C66B /* 2562. Find the Array Concatenation Value. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2562. Find the Array Concatenation Value. LeetCode.swift"; sourceTree = "<group>"; };
+		DD896BF02AE60E0C003BE371 /* 922. Sort Array By Parity II. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. Sort Array By Parity II. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8C37512AECAC5A006B3536 /* 283. Move Zeroes. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283. Move Zeroes. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8CBCF52AB6893200F73C0B /* 1436. Destination City. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1436. Destination City. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8CBCF72AB694F200F73C0B /* 1941. Check if All Characters Have Equal Number of Occurrences. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1941. Check if All Characters Have Equal Number of Occurrences. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8CBCF92AB6EE5800F73C0B /* 2586. Count the Number of Vowel Strings in Range. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2586. Count the Number of Vowel Strings in Range. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8CBCFB2AB6F25900F73C0B /* 2278. Percentage of Letter in String. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2278. Percentage of Letter in String. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8D113B2AD79BCB0064DD40 /* 1768. Merge Strings Alternately. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1768. Merge Strings Alternately. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8D7C042ABBD98C00A682D9 /* 2085. Count Common Words With One Occurrence. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2085. Count Common Words With One Occurrence. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8D7C062ABBE24100A682D9 /* 2309. Greatest English Letter in Upper and Lower Case. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2309. Greatest English Letter in Upper and Lower Case. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8D7C082ABBED0900A682D9 /* 2506. Count Pairs Of Similar Strings. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2506. Count Pairs Of Similar Strings. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8D7C0A2ABBEEE900A682D9 /* PairsAlgorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairsAlgorithm.swift; sourceTree = "<group>"; };
+		DD8D7C0C2ABC322300A682D9 /* 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8DD1882AE4C866001D030E /* MergeSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSort.swift; sourceTree = "<group>"; };
+		DD8DD18A2AE4C9B4001D030E /* 977. Squares of a Sorted Array. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "977. Squares of a Sorted Array. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8DD18C2AE4CCEB001D030E /* 349. Intersection of Two Arrays. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "349. Intersection of Two Arrays. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8E18142AD4EEBC00528D03 /* 2824. Count Pairs Whose Sum is Less than Target. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2824. Count Pairs Whose Sum is Less than Target. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8E181F2AD639A500528D03 /* 2367. Number of Arithmetic Triplets. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2367. Number of Arithmetic Triplets. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8E18212AD64F5F00528D03 /* 832. Flipping an Image. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "832. Flipping an Image. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8E3B1C2ABFCCB000DB28BD /* 1496. Path Crossing. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1496. Path Crossing. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8E3B1E2ABFD96500DB28BD /* 599. Minimum Index Sum of Two Lists. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "599. Minimum Index Sum of Two Lists. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8E3B202ABFDE8400DB28BD /* 1556. Thousand Separator. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1556. Thousand Separator. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8EF6F52AE8B48300C03476 /* 2441. Largest Positive Integer That Exists With Its Negative. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2441. Largest Positive Integer That Exists With Its Negative. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8F09D72AAAB008007CAD35 /* 1528. Shuffle String LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1528. Shuffle String LeetCode.swift"; sourceTree = "<group>"; };
+		DD8F09D92AAABD24007CAD35 /* 1773. Count Items Matching a Rule. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1773. Count Items Matching a Rule. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8F1F732AD0F7E200EDBF28 /* 1805. Number of Different Integers in a String. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1805. Number of Different Integers in a String. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8F1F752AD0F99800EDBF28 /* 434. Number of Segments in a String. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "434. Number of Segments in a String. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8F95F92AB7E46F008FDADF /* 944. Delete Columns to Make Sorted. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "944. Delete Columns to Make Sorted. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8F95FB2AB7E642008FDADF /* TreeAlgorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeAlgorithm.swift; sourceTree = "<group>"; };
+		DD8F95FD2AB8379A008FDADF /* 2255. Count Prefixes of a Given String. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2255. Count Prefixes of a Given String. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8F95FF2AB83C46008FDADF /* 1935. Maximum Number of Words You Can Type. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1935. Maximum Number of Words You Can Type. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8FECBB2AB1478C00676CAE /* TwoPointers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoPointers.swift; sourceTree = "<group>"; };
+		DD8FECBD2AB1592800676CAE /* 2697. Lexicographically Smallest Palindrome. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2697. Lexicographically Smallest Palindrome. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9045062ACD06040038ADC1 /* 20. Valid Parentheses. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9045082ACD11810038ADC1 /* 680. Valid Palindrome II. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "680. Valid Palindrome II. LeetCode.swift"; sourceTree = "<group>"; };
+		DD908CE92ADF746D000D389F /* 1332. Remove Palindromic Subsequences. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1332. Remove Palindromic Subsequences. LeetCode.swift"; sourceTree = "<group>"; };
+		DD908CEB2ADF7EE7000D389F /* 905. Sort Array By Parity. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "905. Sort Array By Parity. LeetCode.swift"; sourceTree = "<group>"; };
+		DD90B89D2AB29F4C005475D7 /* 2103. Rings and Rods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2103. Rings and Rods.swift"; sourceTree = "<group>"; };
+		DD90C82B2ABA882100807E0B /* 2124. Check if All A's Appears Before All B's. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2124. Check if All A's Appears Before All B's. LeetCode.swift"; sourceTree = "<group>"; };
+		DD90C82D2ABA905500807E0B /* 500. Keyboard Row. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "500. Keyboard Row. LeetCode.swift"; sourceTree = "<group>"; };
+		DD90C8B02ABE8C7A002AFA11 /* 1903. Largest Odd Number in String. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1903. Largest Odd Number in String. LeetCode.swift"; sourceTree = "<group>"; };
+		DD90C8B22ABE9559002AFA11 /* 520. Detect Capital. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "520. Detect Capital. LeetCode.swift"; sourceTree = "<group>"; };
+		DD90C8B42ABE985E002AFA11 /* 796. Rotate String. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "796. Rotate String. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9136192AC275B500C9C969 /* 844. Backspace String Compare. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "844. Backspace String Compare. LeetCode.swift"; sourceTree = "<group>"; };
+		DD91361B2AC281AE00C9C969 /* 392. Is Subsequence. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "392. Is Subsequence. LeetCode.swift"; sourceTree = "<group>"; };
+		DD91361E2AC2FE0D00C9C969 /* MetroStations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetroStations.swift; sourceTree = "<group>"; };
+		DD9136202AC2FE1700C9C969 /* Buildings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buildings.swift; sourceTree = "<group>"; };
+		DD9136222AC2FE2C00C9C969 /* Workshop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Workshop.swift; sourceTree = "<group>"; };
+		DD9136242AC3077A00C9C969 /* 1576. Replace All ?'s to Avoid Consecutive Repeating Characters. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1576. Replace All ?'s to Avoid Consecutive Repeating Characters. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9165E82AE2296600B69F97 /* 2570. Merge Two 2D Arrays by Summing Values. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2570. Merge Two 2D Arrays by Summing Values. LeetCode.swift"; sourceTree = "<group>"; };
+		DD918AD52AAD677700AAB541 /* 1859. Sorting the Sentence. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1859. Sorting the Sentence. LeetCode.swift"; sourceTree = "<group>"; };
+		DD918ADA2AADB56E00AAB541 /* 709. To Lower Case. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "709. To Lower Case. LeetCode.swift"; sourceTree = "<group>"; };
+		DD918ADC2AADBB4A00AAB541 /* 557. Reverse Words in a String III. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "557. Reverse Words in a String III. LeetCode.swift"; sourceTree = "<group>"; };
+		DD922ECB2AB3EE0100CCB91B /* 1844. Replace All Digits with Characters. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1844. Replace All Digits with Characters. LeetCode.swift"; sourceTree = "<group>"; };
+		DD922ECD2AB3F4DA00CCB91B /* 2418. Sort the People. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2418. Sort the People. LeetCode.swift"; sourceTree = "<group>"; };
+		DD922ECF2AB3F80400CCB91B /* 1967. Number of Strings That Appear as Substrings in Word. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1967. Number of Strings That Appear as Substrings in Word. LeetCode.swift"; sourceTree = "<group>"; };
+		DD922ED12AB4020C00CCB91B /* 2000. Reverse Prefix of Word. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2000. Reverse Prefix of Word. LeetCode.swift"; sourceTree = "<group>"; };
+		DD922ED32AB46CC500CCB91B /* 2108. Find First Palindromic String in the Array. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2108. Find First Palindromic String in the Array. LeetCode.swift"; sourceTree = "<group>"; };
+		DD922ED52AB4715C00CCB91B /* 2710. Remove Trailing Zeros From a String. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2710. Remove Trailing Zeros From a String. LeetCode.swift"; sourceTree = "<group>"; };
+		DD926C7F2AB9340C00D608B3 /* 1880. Check if Word Equals Summation of Two Words. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1880. Check if Word Equals Summation of Two Words. LeetCode.swift"; sourceTree = "<group>"; };
+		DD926C812AB93AD100D608B3 /* 2053. Kth Distinct String in an Array. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2053. Kth Distinct String in an Array. LeetCode.swift"; sourceTree = "<group>"; };
+		DD926C832AB93F3300D608B3 /* 2788. Split Strings by Separator. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2788. Split Strings by Separator. LeetCode.swift"; sourceTree = "<group>"; };
+		DD926C862AB9462400D608B3 /* 2496. Maximum Value of a String in an Array. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2496. Maximum Value of a String in an Array. LeetCode.swift"; sourceTree = "<group>"; };
+		DD926C882AB9877F00D608B3 /* 412. Fizz Buzz. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "412. Fizz Buzz. LeetCode.swift"; sourceTree = "<group>"; };
+		DD92A6D52AD253CA001C86B2 /* 859. Buddy Strings. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "859. Buddy Strings. LeetCode.swift"; sourceTree = "<group>"; };
+		DD92C0512AB542970045155B /* 1309. Decrypt String from Alphabet to Integer Mapping. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1309. Decrypt String from Alphabet to Integer Mapping. LeetCode.swift"; sourceTree = "<group>"; };
+		DD92C0532AB54BAE0045155B /* 1812. Determine Color of a Chessboard Square. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1812. Determine Color of a Chessboard Square. LeetCode.swift"; sourceTree = "<group>"; };
+		DD92C0552AB5532A0045155B /* 1374. Generate a String With Characters That Have Odd Counts. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1374. Generate a String With Characters That Have Odd Counts. LeetCode.swift"; sourceTree = "<group>"; };
+		DD92C0572AB59A3B0045155B /* 1704. Determine if String Halves Are Alike. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1704. Determine if String Halves Are Alike. LeetCode.swift"; sourceTree = "<group>"; };
+		DD92C0592AB59B3B0045155B /* 2185. Counting Words With a Given Prefix. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2185. Counting Words With a Given Prefix. LeetCode.swift"; sourceTree = "<group>"; };
+		DD92C05B2AB59E390045155B /* 344. Reverse String. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "344. Reverse String. LeetCode.swift"; sourceTree = "<group>"; };
+		DD936FF02AD8E2C70094257B /* 942. DI String Match. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "942. DI String Match. LeetCode.swift"; sourceTree = "<group>"; };
+		DD93B8922AC90421007AE823 /* 125. Valid Palindrome. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "125. Valid Palindrome. LeetCode.swift"; sourceTree = "<group>"; };
+		DD93B8942AC91942007AE823 /* 2609. Find the Longest Balanced Substring of a Binary String. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2609. Find the Longest Balanced Substring of a Binary String. LeetCode.swift"; sourceTree = "<group>"; };
+		DD93BA122ACBAD88000F3F3F /* 819. Most Common Word. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "819. Most Common Word. LeetCode.swift"; sourceTree = "<group>"; };
+		DD93BA142ACBBEBE000F3F3F /* 28. Find the Index of the First Occurrence in a String. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28. Find the Index of the First Occurrence in a String. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9449902ACFB47900F6E1DF /* 1784. Check if Binary String Has at Most One Segment of Ones. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1784. Check if Binary String Has at Most One Segment of Ones. LeetCode.swift"; sourceTree = "<group>"; };
+		DD94E0BC2AAB6C43004FDEA8 /* 2325. Decode the Message. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2325. Decode the Message. LeetCode.swift"; sourceTree = "<group>"; };
+		DD95233C2ABD36E500CA14F2 /* 383. Ransom Note. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "383. Ransom Note. LeetCode.swift"; sourceTree = "<group>"; };
+		DD95233E2ABD414B00CA14F2 /* 389. Find the Difference. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "389. Find the Difference. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9591FC2ACE46C700D1E5CD /* 168. Excel Sheet Column Title. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "168. Excel Sheet Column Title. LeetCode.swift"; sourceTree = "<group>"; };
+		DD95E14F2AA6B6370088A3A8 /* LeetCodeTwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCodeTwoSum.swift; sourceTree = "<group>"; };
+		DD95E1532AA6C3030088A3A8 /* 13. Roman to Integer. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13. Roman to Integer. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9861642AAFF7C200F0B267 /* 1684. Count the Number of Consistent Strings. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1684. Count the Number of Consistent Strings. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9861662AAFFF7200F0B267 /* 2810. Faulty Keyboard. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2810. Faulty Keyboard. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9861682AB00C5200F0B267 /* 2315. Count Asterisks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2315. Count Asterisks.swift"; sourceTree = "<group>"; };
+		DD999EA92AA80FCD00F90C22 /* DefangIPaddressLeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefangIPaddressLeetCode.swift; sourceTree = "<group>"; };
+		DD999EAB2AA815D500F90C22 /* FinalValueAfterOperationLeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalValueAfterOperationLeetCode.swift; sourceTree = "<group>"; };
+		DD999EAD2AA817A100F90C22 /* numJewelsInStonesLeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = numJewelsInStonesLeetCode.swift; sourceTree = "<group>"; };
+		DD99E2B02AA95B2F000643D6 /* interpretLeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = interpretLeetCode.swift; sourceTree = "<group>"; };
+		DD99E2B22AA95E69000643D6 /* mostWordsFoundLeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mostWordsFoundLeetCode.swift; sourceTree = "<group>"; };
+		DD99E2B42AA967AB000643D6 /* 1221. Split a String in Balanced Strings LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1221. Split a String in Balanced Strings LeetCode.swift"; sourceTree = "<group>"; };
+		DD9BDC672AC11DB000E8BF97 /* 415. Add Strings. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "415. Add Strings. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9BDC692AC1228B00E8BF97 /* 541. Reverse String II. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "541. Reverse String II. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9BDC6B2AC126FA00E8BF97 /* 1796. Second Largest Digit in a String. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1796. Second Largest Digit in a String. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9BDC6D2AC12E0B00E8BF97 /* 1154. Day of the Year. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1154. Day of the Year. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9BDC6F2AC1306700E8BF97 /* 551. Student Attendance Record I. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "551. Student Attendance Record I. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9C75A82AAC088E007F6C35 /* 2194. Cells in a Range on an Excel Sheet. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2194. Cells in a Range on an Excel Sheet. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9C75AA2AAC6026007F6C35 /* 1662. Check If Two String Arrays are Equivalent. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1662. Check If Two String Arrays are Equivalent. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9C75AC2AAC9888007F6C35 /* 1816. Truncate Sentence. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1816. Truncate Sentence. LeetCode.swift"; sourceTree = "<group>"; };
+		DD9DAB432AC7BDFE0073ADB9 /* 58. Length of Last Word. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "58. Length of Last Word. LeetCode.swift"; sourceTree = "<group>"; };
+		DDA562172AD3B8FD00C0442A /* 925. Long Pressed Name. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "925. Long Pressed Name. LeetCode.swift"; sourceTree = "<group>"; };
+		DDC8EFBE2ACA61D3005602A4 /* 1790. Check if One String Swap Can Make Strings Equal. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1790. Check if One String Swap Can Make Strings Equal. LeetCode.swift"; sourceTree = "<group>"; };
+		DDC8EFC02ACA6EBB005602A4 /* 2259. Remove Digit From Number to Maximize Result. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2259. Remove Digit From Number to Maximize Result. LeetCode.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DD3A86DF2AA4176D00A97E41 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DD3A86D92AA4176D00A97E41 = {
+			isa = PBXGroup;
+			children = (
+				DD3A86E42AA4176D00A97E41 /* AlgorithmsWithBasicInput */,
+				DD3A86E32AA4176D00A97E41 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DD3A86E32AA4176D00A97E41 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DD3A86E22AA4176D00A97E41 /* AlgorithmsWithBasicInput */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DD3A86E42AA4176D00A97E41 /* AlgorithmsWithBasicInput */ = {
+			isa = PBXGroup;
+			children = (
+				DD3A86E52AA4176D00A97E41 /* main.swift */,
+				DD91361D2AC2FDFA00C9C969 /* JobResume */,
+				DD8FECBA2AB1477800676CAE /* Algorithms */,
+				DD8FECB92AB1475F00676CAE /* String.LeetCode */,
+				DD926C852AB93F6600D608B3 /* String.LeetCode1 */,
+				DDC8EFBD2ACA61A9005602A4 /* String.LeetCode2 */,
+				DD8E18132AD4D8D100528D03 /* TwoPointers.LeetCode */,
+			);
+			path = AlgorithmsWithBasicInput;
+			sourceTree = "<group>";
+		};
+		DD8E18132AD4D8D100528D03 /* TwoPointers.LeetCode */ = {
+			isa = PBXGroup;
+			children = (
+				DD8E18142AD4EEBC00528D03 /* 2824. Count Pairs Whose Sum is Less than Target. LeetCode.swift */,
+				DD8E181F2AD639A500528D03 /* 2367. Number of Arithmetic Triplets. LeetCode.swift */,
+				DD8E18212AD64F5F00528D03 /* 832. Flipping an Image. LeetCode.swift */,
+				DD8D113B2AD79BCB0064DD40 /* 1768. Merge Strings Alternately. LeetCode.swift */,
+				DD936FF02AD8E2C70094257B /* 942. DI String Match. LeetCode.swift */,
+				DD908CE92ADF746D000D389F /* 1332. Remove Palindromic Subsequences. LeetCode.swift */,
+				DD908CEB2ADF7EE7000D389F /* 905. Sort Array By Parity. LeetCode.swift */,
+				DD9165E82AE2296600B69F97 /* 2570. Merge Two 2D Arrays by Summing Values. LeetCode.swift */,
+				DD8DD18A2AE4C9B4001D030E /* 977. Squares of a Sorted Array. LeetCode.swift */,
+				DD8DD18C2AE4CCEB001D030E /* 349. Intersection of Two Arrays. LeetCode.swift */,
+				DD896BF02AE60E0C003BE371 /* 922. Sort Array By Parity II. LeetCode.swift */,
+				DD88E21C2AE7644C00F7C66B /* 2562. Find the Array Concatenation Value. LeetCode.swift */,
+				DD8EF6F52AE8B48300C03476 /* 2441. Largest Positive Integer That Exists With Its Negative. LeetCode.swift */,
+				DD8C37512AECAC5A006B3536 /* 283. Move Zeroes. LeetCode.swift */,
+			);
+			path = TwoPointers.LeetCode;
+			sourceTree = "<group>";
+		};
+		DD8FECB92AB1475F00676CAE /* String.LeetCode */ = {
+			isa = PBXGroup;
+			children = (
+				DD922ECB2AB3EE0100CCB91B /* 1844. Replace All Digits with Characters. LeetCode.swift */,
+				DD3ECFA12AB2ACDB00B77A9F /* 2744. Find Maximum Number of String Pairs. LeetCode.swift */,
+				DD9861682AB00C5200F0B267 /* 2315. Count Asterisks.swift */,
+				DD9861662AAFFF7200F0B267 /* 2810. Faulty Keyboard. LeetCode.swift */,
+				DD9861642AAFF7C200F0B267 /* 1684. Count the Number of Consistent Strings. LeetCode.swift */,
+				DD8856D12AAEBB25009EB9ED /* 804. Unique Morse Code Words. LeetCode.swift */,
+				DD8856CF2AAEB0BA009EB9ED /* 2828. Check if a String Is an Acronym of Words. LeetCode.swift */,
+				DD8856CD2AAEAEB9009EB9ED /* 1832. Check if the Sentence Is Pangram. LeetCode.swift */,
+				DD918ADC2AADBB4A00AAB541 /* 557. Reverse Words in a String III. LeetCode.swift */,
+				DD918ADA2AADB56E00AAB541 /* 709. To Lower Case. LeetCode.swift */,
+				DD918AD52AAD677700AAB541 /* 1859. Sorting the Sentence. LeetCode.swift */,
+				DD9C75AC2AAC9888007F6C35 /* 1816. Truncate Sentence. LeetCode.swift */,
+				DD9C75AA2AAC6026007F6C35 /* 1662. Check If Two String Arrays are Equivalent. LeetCode.swift */,
+				DD9C75A82AAC088E007F6C35 /* 2194. Cells in a Range on an Excel Sheet. LeetCode.swift */,
+				DD94E0BC2AAB6C43004FDEA8 /* 2325. Decode the Message. LeetCode.swift */,
+				DD8F09D92AAABD24007CAD35 /* 1773. Count Items Matching a Rule. LeetCode.swift */,
+				DD8F09D72AAAB008007CAD35 /* 1528. Shuffle String LeetCode.swift */,
+				DD99E2B42AA967AB000643D6 /* 1221. Split a String in Balanced Strings LeetCode.swift */,
+				DD99E2B22AA95E69000643D6 /* mostWordsFoundLeetCode.swift */,
+				DD99E2B02AA95B2F000643D6 /* interpretLeetCode.swift */,
+				DD999EAD2AA817A100F90C22 /* numJewelsInStonesLeetCode.swift */,
+				DD999EAB2AA815D500F90C22 /* FinalValueAfterOperationLeetCode.swift */,
+				DD999EA92AA80FCD00F90C22 /* DefangIPaddressLeetCode.swift */,
+				DD95E14F2AA6B6370088A3A8 /* LeetCodeTwoSum.swift */,
+				DD95E1532AA6C3030088A3A8 /* 13. Roman to Integer. LeetCode.swift */,
+				DD8FECBD2AB1592800676CAE /* 2697. Lexicographically Smallest Palindrome. LeetCode.swift */,
+				DD90B89D2AB29F4C005475D7 /* 2103. Rings and Rods.swift */,
+				DD922ECD2AB3F4DA00CCB91B /* 2418. Sort the People. LeetCode.swift */,
+				DD922ECF2AB3F80400CCB91B /* 1967. Number of Strings That Appear as Substrings in Word. LeetCode.swift */,
+				DD922ED12AB4020C00CCB91B /* 2000. Reverse Prefix of Word. LeetCode.swift */,
+				DD922ED32AB46CC500CCB91B /* 2108. Find First Palindromic String in the Array. LeetCode.swift */,
+				DD922ED52AB4715C00CCB91B /* 2710. Remove Trailing Zeros From a String. LeetCode.swift */,
+				DD92C0512AB542970045155B /* 1309. Decrypt String from Alphabet to Integer Mapping. LeetCode.swift */,
+				DD92C0532AB54BAE0045155B /* 1812. Determine Color of a Chessboard Square. LeetCode.swift */,
+				DD92C0552AB5532A0045155B /* 1374. Generate a String With Characters That Have Odd Counts. LeetCode.swift */,
+				DD92C0572AB59A3B0045155B /* 1704. Determine if String Halves Are Alike. LeetCode.swift */,
+				DD92C0592AB59B3B0045155B /* 2185. Counting Words With a Given Prefix. LeetCode.swift */,
+				DD92C05B2AB59E390045155B /* 344. Reverse String. LeetCode.swift */,
+				DD8CBCF52AB6893200F73C0B /* 1436. Destination City. LeetCode.swift */,
+				DD8CBCF72AB694F200F73C0B /* 1941. Check if All Characters Have Equal Number of Occurrences. LeetCode.swift */,
+				DD8CBCF92AB6EE5800F73C0B /* 2586. Count the Number of Vowel Strings in Range. LeetCode.swift */,
+				DD8CBCFB2AB6F25900F73C0B /* 2278. Percentage of Letter in String. LeetCode.swift */,
+				DD8F95F92AB7E46F008FDADF /* 944. Delete Columns to Make Sorted. LeetCode.swift */,
+				DD8F95FD2AB8379A008FDADF /* 2255. Count Prefixes of a Given String. LeetCode.swift */,
+				DD8F95FF2AB83C46008FDADF /* 1935. Maximum Number of Words You Can Type. LeetCode.swift */,
+				DD926C7F2AB9340C00D608B3 /* 1880. Check if Word Equals Summation of Two Words. LeetCode.swift */,
+				DD926C812AB93AD100D608B3 /* 2053. Kth Distinct String in an Array. LeetCode.swift */,
+				DD926C832AB93F3300D608B3 /* 2788. Split Strings by Separator. LeetCode.swift */,
+			);
+			path = String.LeetCode;
+			sourceTree = "<group>";
+		};
+		DD8FECBA2AB1477800676CAE /* Algorithms */ = {
+			isa = PBXGroup;
+			children = (
+				DD8FECBB2AB1478C00676CAE /* TwoPointers.swift */,
+				DD8F95FB2AB7E642008FDADF /* TreeAlgorithm.swift */,
+				DD8D7C0A2ABBEEE900A682D9 /* PairsAlgorithm.swift */,
+				DD8DD1882AE4C866001D030E /* MergeSort.swift */,
+			);
+			path = Algorithms;
+			sourceTree = "<group>";
+		};
+		DD91361D2AC2FDFA00C9C969 /* JobResume */ = {
+			isa = PBXGroup;
+			children = (
+				DD3A86EE2AA43E2100A97E41 /* TinkoffTask2.swift */,
+				DD3A86EC2AA4287900A97E41 /* TinkoffTask1.swift */,
+				DD91361E2AC2FE0D00C9C969 /* MetroStations.swift */,
+				DD9136202AC2FE1700C9C969 /* Buildings.swift */,
+				DD9136222AC2FE2C00C9C969 /* Workshop.swift */,
+			);
+			path = JobResume;
+			sourceTree = "<group>";
+		};
+		DD926C852AB93F6600D608B3 /* String.LeetCode1 */ = {
+			isa = PBXGroup;
+			children = (
+				DD926C862AB9462400D608B3 /* 2496. Maximum Value of a String in an Array. LeetCode.swift */,
+				DD926C882AB9877F00D608B3 /* 412. Fizz Buzz. LeetCode.swift */,
+				DD90C82B2ABA882100807E0B /* 2124. Check if All A's Appears Before All B's. LeetCode.swift */,
+				DD90C82D2ABA905500807E0B /* 500. Keyboard Row. LeetCode.swift */,
+				DD8D7C042ABBD98C00A682D9 /* 2085. Count Common Words With One Occurrence. LeetCode.swift */,
+				DD8D7C062ABBE24100A682D9 /* 2309. Greatest English Letter in Upper and Lower Case. LeetCode.swift */,
+				DD8D7C082ABBED0900A682D9 /* 2506. Count Pairs Of Similar Strings. LeetCode.swift */,
+				DD8D7C0C2ABC322300A682D9 /* 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence. LeetCode.swift */,
+				DD95233C2ABD36E500CA14F2 /* 383. Ransom Note. LeetCode.swift */,
+				DD95233E2ABD414B00CA14F2 /* 389. Find the Difference. LeetCode.swift */,
+				DD90C8B02ABE8C7A002AFA11 /* 1903. Largest Odd Number in String. LeetCode.swift */,
+				DD90C8B22ABE9559002AFA11 /* 520. Detect Capital. LeetCode.swift */,
+				DD90C8B42ABE985E002AFA11 /* 796. Rotate String. LeetCode.swift */,
+				DD8E3B1C2ABFCCB000DB28BD /* 1496. Path Crossing. LeetCode.swift */,
+				DD8E3B1E2ABFD96500DB28BD /* 599. Minimum Index Sum of Two Lists. LeetCode.swift */,
+				DD8E3B202ABFDE8400DB28BD /* 1556. Thousand Separator. LeetCode.swift */,
+				DD9BDC672AC11DB000E8BF97 /* 415. Add Strings. LeetCode.swift */,
+				DD9BDC692AC1228B00E8BF97 /* 541. Reverse String II. LeetCode.swift */,
+				DD9BDC6B2AC126FA00E8BF97 /* 1796. Second Largest Digit in a String. LeetCode.swift */,
+				DD9BDC6D2AC12E0B00E8BF97 /* 1154. Day of the Year. LeetCode.swift */,
+				DD9BDC6F2AC1306700E8BF97 /* 551. Student Attendance Record I. LeetCode.swift */,
+				DD9136192AC275B500C9C969 /* 844. Backspace String Compare. LeetCode.swift */,
+				DD91361B2AC281AE00C9C969 /* 392. Is Subsequence. LeetCode.swift */,
+				DD9136242AC3077A00C9C969 /* 1576. Replace All ?'s to Avoid Consecutive Repeating Characters. LeetCode.swift */,
+				DD9DAB432AC7BDFE0073ADB9 /* 58. Length of Last Word. LeetCode.swift */,
+				DD93B8922AC90421007AE823 /* 125. Valid Palindrome. LeetCode.swift */,
+				DD93B8942AC91942007AE823 /* 2609. Find the Longest Balanced Substring of a Binary String. LeetCode.swift */,
+			);
+			path = String.LeetCode1;
+			sourceTree = "<group>";
+		};
+		DDC8EFBD2ACA61A9005602A4 /* String.LeetCode2 */ = {
+			isa = PBXGroup;
+			children = (
+				DDC8EFBE2ACA61D3005602A4 /* 1790. Check if One String Swap Can Make Strings Equal. LeetCode.swift */,
+				DDC8EFC02ACA6EBB005602A4 /* 2259. Remove Digit From Number to Maximize Result. LeetCode.swift */,
+				DD93BA122ACBAD88000F3F3F /* 819. Most Common Word. LeetCode.swift */,
+				DD93BA142ACBBEBE000F3F3F /* 28. Find the Index of the First Occurrence in a String. LeetCode.swift */,
+				DD9045062ACD06040038ADC1 /* 20. Valid Parentheses. LeetCode.swift */,
+				DD9045082ACD11810038ADC1 /* 680. Valid Palindrome II. LeetCode.swift */,
+				DD9591FC2ACE46C700D1E5CD /* 168. Excel Sheet Column Title. LeetCode.swift */,
+				DD9449902ACFB47900F6E1DF /* 1784. Check if Binary String Has at Most One Segment of Ones. LeetCode.swift */,
+				DD8F1F732AD0F7E200EDBF28 /* 1805. Number of Different Integers in a String. LeetCode.swift */,
+				DD8F1F752AD0F99800EDBF28 /* 434. Number of Segments in a String. LeetCode.swift */,
+				DD92A6D52AD253CA001C86B2 /* 859. Buddy Strings. LeetCode.swift */,
+				DDA562172AD3B8FD00C0442A /* 925. Long Pressed Name. LeetCode.swift */,
+			);
+			path = String.LeetCode2;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DD3A86E12AA4176D00A97E41 /* AlgorithmsWithBasicInput */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DD3A86E92AA4176D00A97E41 /* Build configuration list for PBXNativeTarget "AlgorithmsWithBasicInput" */;
+			buildPhases = (
+				DD3A86DE2AA4176D00A97E41 /* Sources */,
+				DD3A86DF2AA4176D00A97E41 /* Frameworks */,
+				DD3A86E02AA4176D00A97E41 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AlgorithmsWithBasicInput;
+			productName = AlgorithmsWithBasicInput;
+			productReference = DD3A86E22AA4176D00A97E41 /* AlgorithmsWithBasicInput */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DD3A86DA2AA4176D00A97E41 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					DD3A86E12AA4176D00A97E41 = {
+						CreatedOnToolsVersion = 14.2;
+						LastSwiftMigration = 1420;
+					};
+				};
+			};
+			buildConfigurationList = DD3A86DD2AA4176D00A97E41 /* Build configuration list for PBXProject "AlgorithmsWithBasicInput" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DD3A86D92AA4176D00A97E41;
+			productRefGroup = DD3A86E32AA4176D00A97E41 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DD3A86E12AA4176D00A97E41 /* AlgorithmsWithBasicInput */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DD3A86DE2AA4176D00A97E41 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DD9861672AAFFF7200F0B267 /* 2810. Faulty Keyboard. LeetCode.swift in Sources */,
+				DD9C75AD2AAC9888007F6C35 /* 1816. Truncate Sentence. LeetCode.swift in Sources */,
+				DD908CEA2ADF746D000D389F /* 1332. Remove Palindromic Subsequences. LeetCode.swift in Sources */,
+				DD922ECC2AB3EE0100CCB91B /* 1844. Replace All Digits with Characters. LeetCode.swift in Sources */,
+				DD9C75AB2AAC6026007F6C35 /* 1662. Check If Two String Arrays are Equivalent. LeetCode.swift in Sources */,
+				DD3A86ED2AA4287900A97E41 /* TinkoffTask1.swift in Sources */,
+				DD3A86E62AA4176D00A97E41 /* main.swift in Sources */,
+				DD9BDC702AC1306700E8BF97 /* 551. Student Attendance Record I. LeetCode.swift in Sources */,
+				DD3ECFA22AB2ACDB00B77A9F /* 2744. Find Maximum Number of String Pairs. LeetCode.swift in Sources */,
+				DD91361C2AC281AE00C9C969 /* 392. Is Subsequence. LeetCode.swift in Sources */,
+				DDA562182AD3B8FD00C0442A /* 925. Long Pressed Name. LeetCode.swift in Sources */,
+				DD9BDC682AC11DB000E8BF97 /* 415. Add Strings. LeetCode.swift in Sources */,
+				DD92C05C2AB59E390045155B /* 344. Reverse String. LeetCode.swift in Sources */,
+				DD8F09DA2AAABD24007CAD35 /* 1773. Count Items Matching a Rule. LeetCode.swift in Sources */,
+				DD896BF12AE60E0C003BE371 /* 922. Sort Array By Parity II. LeetCode.swift in Sources */,
+				DD999EAC2AA815D500F90C22 /* FinalValueAfterOperationLeetCode.swift in Sources */,
+				DD3A86EF2AA43E2100A97E41 /* TinkoffTask2.swift in Sources */,
+				DD91361F2AC2FE0D00C9C969 /* MetroStations.swift in Sources */,
+				DD922ED42AB46CC500CCB91B /* 2108. Find First Palindromic String in the Array. LeetCode.swift in Sources */,
+				DD8E3B1F2ABFD96500DB28BD /* 599. Minimum Index Sum of Two Lists. LeetCode.swift in Sources */,
+				DD8E18202AD639A500528D03 /* 2367. Number of Arithmetic Triplets. LeetCode.swift in Sources */,
+				DD99E2B32AA95E69000643D6 /* mostWordsFoundLeetCode.swift in Sources */,
+				DD918ADD2AADBB4A00AAB541 /* 557. Reverse Words in a String III. LeetCode.swift in Sources */,
+				DD92C0542AB54BAE0045155B /* 1812. Determine Color of a Chessboard Square. LeetCode.swift in Sources */,
+				DD9BDC6A2AC1228B00E8BF97 /* 541. Reverse String II. LeetCode.swift in Sources */,
+				DD8856D02AAEB0BA009EB9ED /* 2828. Check if a String Is an Acronym of Words. LeetCode.swift in Sources */,
+				DD922ED62AB4715C00CCB91B /* 2710. Remove Trailing Zeros From a String. LeetCode.swift in Sources */,
+				DD936FF12AD8E2C70094257B /* 942. DI String Match. LeetCode.swift in Sources */,
+				DD92C0562AB5532A0045155B /* 1374. Generate a String With Characters That Have Odd Counts. LeetCode.swift in Sources */,
+				DD9BDC6E2AC12E0B00E8BF97 /* 1154. Day of the Year. LeetCode.swift in Sources */,
+				DD8F95FA2AB7E46F008FDADF /* 944. Delete Columns to Make Sorted. LeetCode.swift in Sources */,
+				DD9C75A92AAC088E007F6C35 /* 2194. Cells in a Range on an Excel Sheet. LeetCode.swift in Sources */,
+				DD8F1F762AD0F99800EDBF28 /* 434. Number of Segments in a String. LeetCode.swift in Sources */,
+				DD8E18152AD4EEBC00528D03 /* 2824. Count Pairs Whose Sum is Less than Target. LeetCode.swift in Sources */,
+				DD90C8B52ABE985E002AFA11 /* 796. Rotate String. LeetCode.swift in Sources */,
+				DD9165E92AE2296600B69F97 /* 2570. Merge Two 2D Arrays by Summing Values. LeetCode.swift in Sources */,
+				DD8CBCFA2AB6EE5800F73C0B /* 2586. Count the Number of Vowel Strings in Range. LeetCode.swift in Sources */,
+				DD8F95FC2AB7E642008FDADF /* TreeAlgorithm.swift in Sources */,
+				DD8CBCFC2AB6F25900F73C0B /* 2278. Percentage of Letter in String. LeetCode.swift in Sources */,
+				DD9DAB442AC7BDFE0073ADB9 /* 58. Length of Last Word. LeetCode.swift in Sources */,
+				DD8DD1892AE4C866001D030E /* MergeSort.swift in Sources */,
+				DD90C8B12ABE8C7A002AFA11 /* 1903. Largest Odd Number in String. LeetCode.swift in Sources */,
+				DD8856CE2AAEAEB9009EB9ED /* 1832. Check if the Sentence Is Pangram. LeetCode.swift in Sources */,
+				DD93BA132ACBAD88000F3F3F /* 819. Most Common Word. LeetCode.swift in Sources */,
+				DD8DD18B2AE4C9B4001D030E /* 977. Squares of a Sorted Array. LeetCode.swift in Sources */,
+				DD922ED22AB4020C00CCB91B /* 2000. Reverse Prefix of Word. LeetCode.swift in Sources */,
+				DD8D113C2AD79BCB0064DD40 /* 1768. Merge Strings Alternately. LeetCode.swift in Sources */,
+				DD9861692AB00C5200F0B267 /* 2315. Count Asterisks.swift in Sources */,
+				DD8EF6F62AE8B48300C03476 /* 2441. Largest Positive Integer That Exists With Its Negative. LeetCode.swift in Sources */,
+				DD8F95FE2AB8379A008FDADF /* 2255. Count Prefixes of a Given String. LeetCode.swift in Sources */,
+				DD926C802AB9340C00D608B3 /* 1880. Check if Word Equals Summation of Two Words. LeetCode.swift in Sources */,
+				DD926C842AB93F3300D608B3 /* 2788. Split Strings by Separator. LeetCode.swift in Sources */,
+				DD91361A2AC275B500C9C969 /* 844. Backspace String Compare. LeetCode.swift in Sources */,
+				DD926C872AB9462400D608B3 /* 2496. Maximum Value of a String in an Array. LeetCode.swift in Sources */,
+				DD8E3B1D2ABFCCB000DB28BD /* 1496. Path Crossing. LeetCode.swift in Sources */,
+				DD8856D22AAEBB25009EB9ED /* 804. Unique Morse Code Words. LeetCode.swift in Sources */,
+				DD8E18222AD64F5F00528D03 /* 832. Flipping an Image. LeetCode.swift in Sources */,
+				DD926C892AB9877F00D608B3 /* 412. Fizz Buzz. LeetCode.swift in Sources */,
+				DD92C0582AB59A3B0045155B /* 1704. Determine if String Halves Are Alike. LeetCode.swift in Sources */,
+				DD9136212AC2FE1700C9C969 /* Buildings.swift in Sources */,
+				DD8D7C092ABBED0900A682D9 /* 2506. Count Pairs Of Similar Strings. LeetCode.swift in Sources */,
+				DD92C0522AB542970045155B /* 1309. Decrypt String from Alphabet to Integer Mapping. LeetCode.swift in Sources */,
+				DD922ED02AB3F80400CCB91B /* 1967. Number of Strings That Appear as Substrings in Word. LeetCode.swift in Sources */,
+				DDC8EFC12ACA6EBB005602A4 /* 2259. Remove Digit From Number to Maximize Result. LeetCode.swift in Sources */,
+				DD9136252AC3077A00C9C969 /* 1576. Replace All ?'s to Avoid Consecutive Repeating Characters. LeetCode.swift in Sources */,
+				DD8D7C052ABBD98C00A682D9 /* 2085. Count Common Words With One Occurrence. LeetCode.swift in Sources */,
+				DD926C822AB93AD100D608B3 /* 2053. Kth Distinct String in an Array. LeetCode.swift in Sources */,
+				DD92C05A2AB59B3B0045155B /* 2185. Counting Words With a Given Prefix. LeetCode.swift in Sources */,
+				DD8F96002AB83C46008FDADF /* 1935. Maximum Number of Words You Can Type. LeetCode.swift in Sources */,
+				DD95233D2ABD36E500CA14F2 /* 383. Ransom Note. LeetCode.swift in Sources */,
+				DD8CBCF62AB6893200F73C0B /* 1436. Destination City. LeetCode.swift in Sources */,
+				DD93B8952AC91942007AE823 /* 2609. Find the Longest Balanced Substring of a Binary String. LeetCode.swift in Sources */,
+				DD8D7C072ABBE24100A682D9 /* 2309. Greatest English Letter in Upper and Lower Case. LeetCode.swift in Sources */,
+				DD9045072ACD06040038ADC1 /* 20. Valid Parentheses. LeetCode.swift in Sources */,
+				DD8FECBE2AB1592800676CAE /* 2697. Lexicographically Smallest Palindrome. LeetCode.swift in Sources */,
+				DD8E3B212ABFDE8400DB28BD /* 1556. Thousand Separator. LeetCode.swift in Sources */,
+				DD8CBCF82AB694F200F73C0B /* 1941. Check if All Characters Have Equal Number of Occurrences. LeetCode.swift in Sources */,
+				DD999EAE2AA817A100F90C22 /* numJewelsInStonesLeetCode.swift in Sources */,
+				DD918ADB2AADB56E00AAB541 /* 709. To Lower Case. LeetCode.swift in Sources */,
+				DD999EAA2AA80FCD00F90C22 /* DefangIPaddressLeetCode.swift in Sources */,
+				DD9591FD2ACE46C700D1E5CD /* 168. Excel Sheet Column Title. LeetCode.swift in Sources */,
+				DD918AD62AAD677700AAB541 /* 1859. Sorting the Sentence. LeetCode.swift in Sources */,
+				DD92A6D62AD253CA001C86B2 /* 859. Buddy Strings. LeetCode.swift in Sources */,
+				DD93B8932AC90421007AE823 /* 125. Valid Palindrome. LeetCode.swift in Sources */,
+				DD8DD18D2AE4CCEB001D030E /* 349. Intersection of Two Arrays. LeetCode.swift in Sources */,
+				DD95E1542AA6C3030088A3A8 /* 13. Roman to Integer. LeetCode.swift in Sources */,
+				DD99E2B12AA95B2F000643D6 /* interpretLeetCode.swift in Sources */,
+				DD8D7C0B2ABBEEE900A682D9 /* PairsAlgorithm.swift in Sources */,
+				DD8D7C0D2ABC322300A682D9 /* 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence. LeetCode.swift in Sources */,
+				DD90C82E2ABA905500807E0B /* 500. Keyboard Row. LeetCode.swift in Sources */,
+				DD88E21D2AE7644C00F7C66B /* 2562. Find the Array Concatenation Value. LeetCode.swift in Sources */,
+				DDC8EFBF2ACA61D3005602A4 /* 1790. Check if One String Swap Can Make Strings Equal. LeetCode.swift in Sources */,
+				DD9449912ACFB47900F6E1DF /* 1784. Check if Binary String Has at Most One Segment of Ones. LeetCode.swift in Sources */,
+				DD90C8B32ABE9559002AFA11 /* 520. Detect Capital. LeetCode.swift in Sources */,
+				DD90C82C2ABA882100807E0B /* 2124. Check if All A's Appears Before All B's. LeetCode.swift in Sources */,
+				DD93BA152ACBBEBE000F3F3F /* 28. Find the Index of the First Occurrence in a String. LeetCode.swift in Sources */,
+				DD8F09D82AAAB008007CAD35 /* 1528. Shuffle String LeetCode.swift in Sources */,
+				DD9045092ACD11810038ADC1 /* 680. Valid Palindrome II. LeetCode.swift in Sources */,
+				DD9136232AC2FE2C00C9C969 /* Workshop.swift in Sources */,
+				DD95E1502AA6B6370088A3A8 /* LeetCodeTwoSum.swift in Sources */,
+				DD95233F2ABD414B00CA14F2 /* 389. Find the Difference. LeetCode.swift in Sources */,
+				DD8F1F742AD0F7E200EDBF28 /* 1805. Number of Different Integers in a String. LeetCode.swift in Sources */,
+				DD8FECBC2AB1478C00676CAE /* TwoPointers.swift in Sources */,
+				DD94E0BD2AAB6C43004FDEA8 /* 2325. Decode the Message. LeetCode.swift in Sources */,
+				DD90B89E2AB29F4C005475D7 /* 2103. Rings and Rods.swift in Sources */,
+				DD99E2B52AA967AB000643D6 /* 1221. Split a String in Balanced Strings LeetCode.swift in Sources */,
+				DD9BDC6C2AC126FA00E8BF97 /* 1796. Second Largest Digit in a String. LeetCode.swift in Sources */,
+				DD922ECE2AB3F4DA00CCB91B /* 2418. Sort the People. LeetCode.swift in Sources */,
+				DD8C37522AECAC5A006B3536 /* 283. Move Zeroes. LeetCode.swift in Sources */,
+				DD9861652AAFF7C200F0B267 /* 1684. Count the Number of Consistent Strings. LeetCode.swift in Sources */,
+				DD908CEC2ADF7EE7000D389F /* 905. Sort Array By Parity. LeetCode.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		DD3A86E72AA4176D00A97E41 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.6;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		DD3A86E82AA4176D00A97E41 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.6;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		DD3A86EA2AA4176D00A97E41 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 7YW3V66545;
+				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 12.2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		DD3A86EB2AA4176D00A97E41 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 7YW3V66545;
+				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 12.2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DD3A86DD2AA4176D00A97E41 /* Build configuration list for PBXProject "AlgorithmsWithBasicInput" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD3A86E72AA4176D00A97E41 /* Debug */,
+				DD3A86E82AA4176D00A97E41 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DD3A86E92AA4176D00A97E41 /* Build configuration list for PBXNativeTarget "AlgorithmsWithBasicInput" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD3A86EA2AA4176D00A97E41 /* Debug */,
+				DD3A86EB2AA4176D00A97E41 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DD3A86DA2AA4176D00A97E41 /* Project object */;
+}
