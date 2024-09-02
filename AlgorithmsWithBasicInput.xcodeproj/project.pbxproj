@@ -11,6 +11,7 @@
 		DD3A86ED2AA4287900A97E41 /* TinkoffTask1.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD3A86EC2AA4287900A97E41 /* TinkoffTask1.swift */; };
 		DD3A86EF2AA43E2100A97E41 /* TinkoffTask2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD3A86EE2AA43E2100A97E41 /* TinkoffTask2.swift */; };
 		DD3ECFA22AB2ACDB00B77A9F /* 2744. Find Maximum Number of String Pairs. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD3ECFA12AB2ACDB00B77A9F /* 2744. Find Maximum Number of String Pairs. LeetCode.swift */; };
+		DD7DB2042C85443A004A3B1F /* HowToApproachJobInterviewAlgorithms.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD7DB2032C85443A004A3B1F /* HowToApproachJobInterviewAlgorithms.swift */; };
 		DD8856CE2AAEAEB9009EB9ED /* 1832. Check if the Sentence Is Pangram. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8856CD2AAEAEB9009EB9ED /* 1832. Check if the Sentence Is Pangram. LeetCode.swift */; };
 		DD8856D02AAEB0BA009EB9ED /* 2828. Check if a String Is an Acronym of Words. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8856CF2AAEB0BA009EB9ED /* 2828. Check if a String Is an Acronym of Words. LeetCode.swift */; };
 		DD8856D22AAEBB25009EB9ED /* 804. Unique Morse Code Words. LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8856D12AAEBB25009EB9ED /* 804. Unique Morse Code Words. LeetCode.swift */; };
@@ -138,6 +139,7 @@
 		DD3A86EC2AA4287900A97E41 /* TinkoffTask1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinkoffTask1.swift; sourceTree = "<group>"; };
 		DD3A86EE2AA43E2100A97E41 /* TinkoffTask2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinkoffTask2.swift; sourceTree = "<group>"; };
 		DD3ECFA12AB2ACDB00B77A9F /* 2744. Find Maximum Number of String Pairs. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2744. Find Maximum Number of String Pairs. LeetCode.swift"; sourceTree = "<group>"; };
+		DD7DB2032C85443A004A3B1F /* HowToApproachJobInterviewAlgorithms.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HowToApproachJobInterviewAlgorithms.swift; sourceTree = "<group>"; };
 		DD8856CD2AAEAEB9009EB9ED /* 1832. Check if the Sentence Is Pangram. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1832. Check if the Sentence Is Pangram. LeetCode.swift"; sourceTree = "<group>"; };
 		DD8856CF2AAEB0BA009EB9ED /* 2828. Check if a String Is an Acronym of Words. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2828. Check if a String Is an Acronym of Words. LeetCode.swift"; sourceTree = "<group>"; };
 		DD8856D12AAEBB25009EB9ED /* 804. Unique Morse Code Words. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "804. Unique Morse Code Words. LeetCode.swift"; sourceTree = "<group>"; };
@@ -277,6 +279,7 @@
 		DD3A86E42AA4176D00A97E41 /* AlgorithmsWithBasicInput */ = {
 			isa = PBXGroup;
 			children = (
+				DD7DB2032C85443A004A3B1F /* HowToApproachJobInterviewAlgorithms.swift */,
 				DD3A86E52AA4176D00A97E41 /* main.swift */,
 				DD91361D2AC2FDFA00C9C969 /* JobResume */,
 				DD8FECBA2AB1477800676CAE /* Algorithms */,
@@ -584,6 +587,7 @@
 				DD92A6D62AD253CA001C86B2 /* 859. Buddy Strings. LeetCode.swift in Sources */,
 				DD93B8932AC90421007AE823 /* 125. Valid Palindrome. LeetCode.swift in Sources */,
 				DD8DD18D2AE4CCEB001D030E /* 349. Intersection of Two Arrays. LeetCode.swift in Sources */,
+				DD7DB2042C85443A004A3B1F /* HowToApproachJobInterviewAlgorithms.swift in Sources */,
 				DD95E1542AA6C3030088A3A8 /* 13. Roman to Integer. LeetCode.swift in Sources */,
 				DD99E2B12AA95B2F000643D6 /* interpretLeetCode.swift in Sources */,
 				DD8D7C0B2ABBEEE900A682D9 /* PairsAlgorithm.swift in Sources */,
