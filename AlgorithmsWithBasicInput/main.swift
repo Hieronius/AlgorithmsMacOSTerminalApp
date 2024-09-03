@@ -1,6 +1,15 @@
-
 import Foundation
+guard let input = readLine() else {
+    print("wrong input")
+    exit(1)
+}
 
-// let number: Int = round(7.5)
-print("test commit 01.09.24")
-print("final commit 01.09.24")
+let numbers = input.components(separatedBy: " ").compactMap {Int($0)}
+
+guard numbers.count == 2 else {
+    print("wrong input")
+    exit(1)
+}
+
+let result = numbers[0] + numbers[1]
+print(result)
