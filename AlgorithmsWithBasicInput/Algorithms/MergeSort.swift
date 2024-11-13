@@ -7,6 +7,8 @@
 
 import Foundation
 
+/*
+
 func merge(_ left: [Int], _ right: [Int]) -> [Int] {
     // 1.
     var leftIndex = 0
@@ -65,3 +67,4 @@ func mergeSort(_ array: [Int]) -> [Int] {
     
     return merge(leftArray, rightArray)
 }
+ */
