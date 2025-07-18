@@ -27,26 +27,29 @@
 // Keep the main thread alive to see the output
 // RunLoop.main.run()
 
-/* MARK: Algorithm's practice
+import Foundation
 
- 1. Merge Sort (Two Pointers)
- let unsortedArray = [34, 7, 23, 32, 5, 62, 32, 4, 90, 1]
- print(mergeSort(unsortedArray))
-
- 2. Binary Search (Two Pointers)
- let sortedArray = [1, 4, 5, 7, 23, 32, 34, 62, 90]
- print(binarySearch(sortedArray, target: 1)!)
- print(binarySearch(sortedArray, target: 90)!)
- print(binarySearch(sortedArray, target: 32)!)
-
- 3. Sliding Window
- let randomArray = [1, 5, 2, 8, 4, 10, 6]
- print(getMaxSum(randomArray, k: 5)!)
-
- 4. Process input from keyboard
- print(getInput())
-
- */
 
 import Foundation
+
+//func getSum() {
+//
+//	guard let input = readLine() else { return }
+//
+//	let nums = input.split(separator: " ")
+//
+//	guard nums.count == 2, let numA = Int(nums[0]), let numB = Int(nums[1]) else { return }
+//
+//	print(numA + numB)
+//
+//}
+//
+//getSum()
+
+let string = "dad asd"
+
+print(string.split(separator: " "))
+
+
+
 
