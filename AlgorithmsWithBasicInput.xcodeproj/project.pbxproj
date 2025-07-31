@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DD0D81102E38AB1900239F4E /* 3210. Find the Encrypted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3210. Find the Encrypted.swift"; sourceTree = "<group>"; };
 		DD1132DA2D8685D800026392 /* 1945. Sum of Digits of String After Convert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1945. Sum of Digits of String After Convert.swift"; sourceTree = "<group>"; };
 		DD1132DB2D8687A300026392 /* 3028. Ant on the Boundary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3028. Ant on the Boundary.swift"; sourceTree = "<group>"; };
 		DD1132DC2D868FB900026392 /* 2363. Merge Similar Items.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2363. Merge Similar Items.swift"; sourceTree = "<group>"; };
@@ -679,6 +680,7 @@
 				DDAB19142DBC938900DF3CC3 /* 258. Add Digits.swift */,
 				DDAA59A42DBDE6FA006F6F3A /* 387. First Unique Character in a String.swift */,
 				DDAA59A52DBDEA99006F6F3A /* 448. Find All Numbers Disappeared in an Array.swift */,
+				DD0D81102E38AB1900239F4E /* 3210. Find the Encrypted.swift */,
 			);
 			path = "LeetCode. Easy. Mixed";
 			sourceTree = "<group>";

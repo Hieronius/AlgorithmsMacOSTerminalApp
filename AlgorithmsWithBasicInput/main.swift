@@ -30,25 +30,7 @@
 import Foundation
 
 
-import Foundation
 
-//func getSum() {
-//
-//	guard let input = readLine() else { return }
-//
-//	let nums = input.split(separator: " ")
-//
-//	guard nums.count == 2, let numA = Int(nums[0]), let numB = Int(nums[1]) else { return }
-//
-//	print(numA + numB)
-//
-//}
-//
-//getSum()
-
-let string = "dad asd"
-
-print(string.split(separator: " "))
 
 
 
