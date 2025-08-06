@@ -51,6 +51,8 @@
 		DD58CC652D6FFC19003A826A /* 3340. Check Balanced String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3340. Check Balanced String.swift"; sourceTree = "<group>"; };
 		DD600AA32D7D46D700C25F16 /* 1207. Unique Number of Occurrences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1207. Unique Number of Occurrences.swift"; sourceTree = "<group>"; };
 		DD600AA42D7D50AC00C25F16 /* 2696. Minimum String Length After Removing Substrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2696. Minimum String Length After Removing Substrings.swift"; sourceTree = "<group>"; };
+		DD77C1672E3C92A800FF05C5 /* 3467. Transform Array by Parity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3467. Transform Array by Parity.swift"; sourceTree = "<group>"; };
+		DD77C1682E3CA2E200FF05C5 /* 3541. Find Most Frequent Vowel and Consonant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3541. Find Most Frequent Vowel and Consonant.swift"; sourceTree = "<group>"; };
 		DD7AD7E02D9907A000A788D7 /* 2389. Longest Subsequence With Limited Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2389. Longest Subsequence With Limited Sum.swift"; sourceTree = "<group>"; };
 		DD7DB2032C85443A004A3B1F /* HowToApproachJobInterviewAlgorithms.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HowToApproachJobInterviewAlgorithms.swift; sourceTree = "<group>"; };
 		DD86F7AB2D544B6900A2DD73 /* 242. Valid Anagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "242. Valid Anagram.swift"; sourceTree = "<group>"; };
@@ -288,6 +290,7 @@
 		DDAE70512DA77C1100279959 /* 1200. Minimum Absolute Difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1200. Minimum Absolute Difference.swift"; sourceTree = "<group>"; };
 		DDAE70522DA7844300279959 /* 806. Number of Lines To Write String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "806. Number of Lines To Write String.swift"; sourceTree = "<group>"; };
 		DDAE96C32D66B6BA00B1C23E /* 228. Summary Ranges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "228. Summary Ranges.swift"; sourceTree = "<group>"; };
+		DDAEF5A22E3FAB3F00EBA20C /* 2574. Left and Right Sum Differences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2574. Left and Right Sum Differences.swift"; sourceTree = "<group>"; };
 		DDAF26952CE598D5007D237A /* 3146. Permutation Difference between Two Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3146. Permutation Difference between Two Strings.swift"; sourceTree = "<group>"; };
 		DDAF26972CE59F69007D237A /* 2413. Smallest Even Multiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2413. Smallest Even Multiple.swift"; sourceTree = "<group>"; };
 		DDAF26992CE5ABB9007D237A /* 2798. Number of Employees Who Met the Target.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2798. Number of Employees Who Met the Target.swift"; sourceTree = "<group>"; };
@@ -315,6 +318,7 @@
 		DDE6A67D2D829211003A8FE8 /* 2951. Find the Peaks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2951. Find the Peaks.swift"; sourceTree = "<group>"; };
 		DDE6A67E2D8298E9003A8FE8 /* 1876. Substrings of Size Three with Distinct Characters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1876. Substrings of Size Three with Distinct Characters.swift"; sourceTree = "<group>"; };
 		DDE6A67F2D829DA6003A8FE8 /* 2460. Apply Operations to an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2460. Apply Operations to an Array.swift"; sourceTree = "<group>"; };
+		DDE9FEDB2E3DE28600506C9E /* 3498. Reverse Degree of a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3498. Reverse Degree of a String.swift"; sourceTree = "<group>"; };
 		DDF348612D795DFA00BC5264 /* 3184. Count Pairs That Form a Complete Day I.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3184. Count Pairs That Form a Complete Day I.swift"; sourceTree = "<group>"; };
 		DDF348622D79643D00BC5264 /* 1295. Find Numbers with Even Number of Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1295. Find Numbers with Even Number of Digits.swift"; sourceTree = "<group>"; };
 		DDFF9CDF2D814B2900194B6D /* 136. Single Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "136. Single Number.swift"; sourceTree = "<group>"; };
@@ -681,6 +685,10 @@
 				DDAA59A42DBDE6FA006F6F3A /* 387. First Unique Character in a String.swift */,
 				DDAA59A52DBDEA99006F6F3A /* 448. Find All Numbers Disappeared in an Array.swift */,
 				DD0D81102E38AB1900239F4E /* 3210. Find the Encrypted.swift */,
+				DD77C1672E3C92A800FF05C5 /* 3467. Transform Array by Parity.swift */,
+				DD77C1682E3CA2E200FF05C5 /* 3541. Find Most Frequent Vowel and Consonant.swift */,
+				DDE9FEDB2E3DE28600506C9E /* 3498. Reverse Degree of a String.swift */,
+				DDAEF5A22E3FAB3F00EBA20C /* 2574. Left and Right Sum Differences.swift */,
 			);
 			path = "LeetCode. Easy. Mixed";
 			sourceTree = "<group>";
