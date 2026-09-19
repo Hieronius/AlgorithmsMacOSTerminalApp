@@ -37,6 +37,28 @@
 		DD3A86EC2AA4287900A97E41 /* TinkoffTask1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinkoffTask1.swift; sourceTree = "<group>"; };
 		DD3A86EE2AA43E2100A97E41 /* TinkoffTask2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinkoffTask2.swift; sourceTree = "<group>"; };
 		DD3ECFA12AB2ACDB00B77A9F /* 2744. Find Maximum Number of String Pairs. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2744. Find Maximum Number of String Pairs. LeetCode.swift"; sourceTree = "<group>"; };
+		DD4DE42A300CACD700BB49F6 /* 66. Plus One.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "66. Plus One.swift"; sourceTree = "<group>"; };
+		DD4DE42C300CB6EE00BB49F6 /* 3898. Find the Degree of Each Vertex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3898. Find the Degree of Each Vertex.swift"; sourceTree = "<group>"; };
+		DD4DE42D3010BC1500BB49F6 /* 35. Search Insert Position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35. Search Insert Position.swift"; sourceTree = "<group>"; };
+		DD4DE42E30111E4700BB49F6 /* 3925. Concatenate Array With Reverse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3925. Concatenate Array With Reverse.swift"; sourceTree = "<group>"; };
+		DD4DE42F3011284400BB49F6 /* 3945. Digit Frequency Score.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3945. Digit Frequency Score.swift"; sourceTree = "<group>"; };
+		DD4DE4303011FFF100BB49F6 /* 3783. Mirror Distance of an Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3783. Mirror Distance of an Integer.swift"; sourceTree = "<group>"; };
+		DD4DE43130146ABA00BB49F6 /* 3668. Restore Finishing Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3668. Restore Finishing Order.swift"; sourceTree = "<group>"; };
+		DD4DE43230147AE100BB49F6 /* 3838. Weighted Word Mapping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3838. Weighted Word Mapping.swift"; sourceTree = "<group>"; };
+		DD4DE43330147CFE00BB49F6 /* 3701. Compute Alternating Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3701. Compute Alternating Sum.swift"; sourceTree = "<group>"; };
+		DD4DE4343015D2CB00BB49F6 /* 3658. GCD of Odd and Even Sums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3658. GCD of Odd and Even Sums.swift"; sourceTree = "<group>"; };
+		DD4DE4353015D75700BB49F6 /* 3794. Reverse String Prefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3794. Reverse String Prefix.swift"; sourceTree = "<group>"; };
+		DD4DE436301724E500BB49F6 /* 3516. Find Closest Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3516. Find Closest Person.swift"; sourceTree = "<group>"; };
+		DD4DE4AB301F298500BB49F6 /* 938. Range Sum of BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "938. Range Sum of BST.swift"; sourceTree = "<group>"; };
+		DD4DE4AC30286F4B00BB49F6 /* 2331. Evaluate Boolean Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2331. Evaluate Boolean Binary Tree.swift"; sourceTree = "<group>"; };
+		DD4DE4AD302875CA00BB49F6 /* 590. N-ary Tree Postorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "590. N-ary Tree Postorder Traversal.swift"; sourceTree = "<group>"; };
+		DD4DE4AE302C6A3A00BB49F6 /* 94. Binary Tree Inorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "94. Binary Tree Inorder Traversal.swift"; sourceTree = "<group>"; };
+		DD4DE4AF302ED7AC00BB49F6 /* 226. Invert Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "226. Invert Binary Tree.swift"; sourceTree = "<group>"; };
+		DD4DE4B030317AF300BB49F6 /* 617. Merge Two Binary Trees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "617. Merge Two Binary Trees.swift"; sourceTree = "<group>"; };
+		DD4DE4B1304150F400BB49F6 /* 897. Increasing Order Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "897. Increasing Order Search Tree.swift"; sourceTree = "<group>"; };
+		DD4DE4B23041573000BB49F6 /* 145. Binary Tree Postorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "145. Binary Tree Postorder Traversal.swift"; sourceTree = "<group>"; };
+		DD4DE4B33047E4D700BB49F6 /* 104. Maximum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. Maximum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
+		DD4DE4B4304935E100BB49F6 /* 589. N-ary Tree Preorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "589. N-ary Tree Preorder Traversal.swift"; sourceTree = "<group>"; };
 		DD4E4B3A2D8927730068B9BA /* 2733. Neither Minimum nor Maximum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2733. Neither Minimum nor Maximum.swift"; sourceTree = "<group>"; };
 		DD4E4B3B2D892F6D0068B9BA /* 2032. Two Out of Three.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2032. Two Out of Three.swift"; sourceTree = "<group>"; };
 		DD4E4B3C2D8933050068B9BA /* 1304. Find N Unique Integers Sum up to Zero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1304. Find N Unique Integers Sum up to Zero.swift"; sourceTree = "<group>"; };
@@ -61,6 +83,8 @@
 		DD8856CF2AAEB0BA009EB9ED /* 2828. Check if a String Is an Acronym of Words. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2828. Check if a String Is an Acronym of Words. LeetCode.swift"; sourceTree = "<group>"; };
 		DD8856D12AAEBB25009EB9ED /* 804. Unique Morse Code Words. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "804. Unique Morse Code Words. LeetCode.swift"; sourceTree = "<group>"; };
 		DD88E21C2AE7644C00F7C66B /* 2562. Find the Array Concatenation Value. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2562. Find the Array Concatenation Value. LeetCode.swift"; sourceTree = "<group>"; };
+		DD8906332E4479FC00BB766D /* 3512. Minimum Operations to Make Array Sum Divisible by K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3512. Minimum Operations to Make Array Sum Divisible by K.swift"; sourceTree = "<group>"; };
+		DD8906352E44892100BB766D /* 2037. Minimum Number of Moves to Seat Everyone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2037. Minimum Number of Moves to Seat Everyone.swift"; sourceTree = "<group>"; };
 		DD896BF02AE60E0C003BE371 /* 922. Sort Array By Parity II. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. Sort Array By Parity II. LeetCode.swift"; sourceTree = "<group>"; };
 		DD8C37512AECAC5A006B3536 /* 283. Move Zeroes. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283. Move Zeroes. LeetCode.swift"; sourceTree = "<group>"; };
 		DD8CBCF52AB6893200F73C0B /* 1436. Destination City. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1436. Destination City. LeetCode.swift"; sourceTree = "<group>"; };
@@ -303,6 +327,7 @@
 		DDC8EFBE2ACA61D3005602A4 /* 1790. Check if One String Swap Can Make Strings Equal. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1790. Check if One String Swap Can Make Strings Equal. LeetCode.swift"; sourceTree = "<group>"; };
 		DDC8EFC02ACA6EBB005602A4 /* 2259. Remove Digit From Number to Maximize Result. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2259. Remove Digit From Number to Maximize Result. LeetCode.swift"; sourceTree = "<group>"; };
 		DDCC447E2D5842B900314255 /* 219. Contains Duplicate II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "219. Contains Duplicate II.swift"; sourceTree = "<group>"; };
+		DDCF2B4B2E4F918B009E493B /* 1769. Minimum Number of Operations to Move All Balls to Each Box.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1769. Minimum Number of Operations to Move All Balls to Each Box.swift"; sourceTree = "<group>"; };
 		DDD02C7A2D56F61700D211AD /* 202. Happy Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "202. Happy Number.swift"; sourceTree = "<group>"; };
 		DDD661452D485AC6007488C6 /* 54. Spiral Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "54. Spiral Matrix.swift"; sourceTree = "<group>"; };
 		DDD6F8462D602C5C00E1CF5B /* 128. Longest Consecutive Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "128. Longest Consecutive Sequence.swift"; sourceTree = "<group>"; };
@@ -319,8 +344,17 @@
 		DDE6A67E2D8298E9003A8FE8 /* 1876. Substrings of Size Three with Distinct Characters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1876. Substrings of Size Three with Distinct Characters.swift"; sourceTree = "<group>"; };
 		DDE6A67F2D829DA6003A8FE8 /* 2460. Apply Operations to an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2460. Apply Operations to an Array.swift"; sourceTree = "<group>"; };
 		DDE9FEDB2E3DE28600506C9E /* 3498. Reverse Degree of a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3498. Reverse Degree of a String.swift"; sourceTree = "<group>"; };
+		DDEB79E62E504D4C0001F930 /* 2161. Partition Array According to Given Pivot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2161. Partition Array According to Given Pivot.swift"; sourceTree = "<group>"; };
+		DDF176222E45D4EC00E4DB57 /* 1365. How Many Numbers Are Smaller Than the Current Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1365. How Many Numbers Are Smaller Than the Current Number.swift"; sourceTree = "<group>"; };
+		DDF176232E45DC5200E4DB57 /* 1637. Widest Vertical Area Between Two Points Containing No Points.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1637. Widest Vertical Area Between Two Points Containing No Points.swift"; sourceTree = "<group>"; };
+		DDF227E22E47919E0081A127 /* 3264. Final Array State After K Multiplication Operations I.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3264. Final Array State After K Multiplication Operations I.swift"; sourceTree = "<group>"; };
+		DDF227E32E47982E0081A127 /* 1389. Create Target Array in the Given Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1389. Create Target Array in the Given Order.swift"; sourceTree = "<group>"; };
 		DDF348612D795DFA00BC5264 /* 3184. Count Pairs That Form a Complete Day I.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3184. Count Pairs That Form a Complete Day I.swift"; sourceTree = "<group>"; };
 		DDF348622D79643D00BC5264 /* 1295. Find Numbers with Even Number of Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1295. Find Numbers with Even Number of Digits.swift"; sourceTree = "<group>"; };
+		DDF4FCAA2E49C682009728E1 /* 3065. Minimum Operations to Exceed Threshold Value I.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3065. Minimum Operations to Exceed Threshold Value I.swift"; sourceTree = "<group>"; };
+		DDF4FCAB2E49CA72009728E1 /* 1688. Count of Matches in Tournament.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1688. Count of Matches in Tournament.swift"; sourceTree = "<group>"; };
+		DDF4FCAC2E49CE69009728E1 /* 1313. Decompress Run-Length Encoded List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1313. Decompress Run-Length Encoded List.swift"; sourceTree = "<group>"; };
+		DDF4FCAD2E49D610009728E1 /* 3162. Find the Number of Good Pairs I.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3162. Find the Number of Good Pairs I.swift"; sourceTree = "<group>"; };
 		DDFF9CDF2D814B2900194B6D /* 136. Single Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "136. Single Number.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -354,12 +388,12 @@
 		DD3A86E42AA4176D00A97E41 /* AlgorithmsWithBasicInput */ = {
 			isa = PBXGroup;
 			children = (
+				DD4DE43A301B0DAD00BB49F6 /* DFS */,
 				DDA91E072D94FFFF00AD219F /* LeetCode. Bits Manipulation */,
 				DDACB51F2CE9A72100F801D1 /* 150 most popular questions */,
 				DDAA28E72CE859D700FBBB3C /* LeetCode. Medium. Mixed */,
 				DDAB86402CE2DECA00084E56 /* LeetCode. Easy. Mixed */,
 				DD7DB2032C85443A004A3B1F /* HowToApproachJobInterviewAlgorithms.swift */,
-				DD58CC612D6FE963003A826A /* 1021. Remove Outermost Parentheses.swift */,
 				DD3A86E52AA4176D00A97E41 /* main.swift */,
 				DD91361D2AC2FDFA00C9C969 /* JobResume */,
 				DD8FECBA2AB1477800676CAE /* Algorithms */,
@@ -369,6 +403,31 @@
 				DD8E18132AD4D8D100528D03 /* TwoPointers.LeetCode */,
 			);
 			path = AlgorithmsWithBasicInput;
+			sourceTree = "<group>";
+		};
+		DD4DE439301B0DAD00BB49F6 /* Easy */ = {
+			isa = PBXGroup;
+			children = (
+				DD4DE4AB301F298500BB49F6 /* 938. Range Sum of BST.swift */,
+				DD4DE4AC30286F4B00BB49F6 /* 2331. Evaluate Boolean Binary Tree.swift */,
+				DD4DE4AD302875CA00BB49F6 /* 590. N-ary Tree Postorder Traversal.swift */,
+				DD4DE4AE302C6A3A00BB49F6 /* 94. Binary Tree Inorder Traversal.swift */,
+				DD4DE4AF302ED7AC00BB49F6 /* 226. Invert Binary Tree.swift */,
+				DD4DE4B030317AF300BB49F6 /* 617. Merge Two Binary Trees.swift */,
+				DD4DE4B1304150F400BB49F6 /* 897. Increasing Order Search Tree.swift */,
+				DD4DE4B23041573000BB49F6 /* 145. Binary Tree Postorder Traversal.swift */,
+				DD4DE4B33047E4D700BB49F6 /* 104. Maximum Depth of Binary Tree.swift */,
+				DD4DE4B4304935E100BB49F6 /* 589. N-ary Tree Preorder Traversal.swift */,
+			);
+			path = Easy;
+			sourceTree = "<group>";
+		};
+		DD4DE43A301B0DAD00BB49F6 /* DFS */ = {
+			isa = PBXGroup;
+			children = (
+				DD4DE439301B0DAD00BB49F6 /* Easy */,
+			);
+			path = DFS;
 			sourceTree = "<group>";
 		};
 		DD8E18132AD4D8D100528D03 /* TwoPointers.LeetCode */ = {
@@ -532,6 +591,8 @@
 			isa = PBXGroup;
 			children = (
 				DDAA28E82CE859ED00FBBB3C /* 3254. Find the Power of K-Size Subarrays I.swift */,
+				DDCF2B4B2E4F918B009E493B /* 1769. Minimum Number of Operations to Move All Balls to Each Box.swift */,
+				DDEB79E62E504D4C0001F930 /* 2161. Partition Array According to Given Pivot.swift */,
 			);
 			path = "LeetCode. Medium. Mixed";
 			sourceTree = "<group>";
@@ -689,6 +750,29 @@
 				DD77C1682E3CA2E200FF05C5 /* 3541. Find Most Frequent Vowel and Consonant.swift */,
 				DDE9FEDB2E3DE28600506C9E /* 3498. Reverse Degree of a String.swift */,
 				DDAEF5A22E3FAB3F00EBA20C /* 2574. Left and Right Sum Differences.swift */,
+				DD8906332E4479FC00BB766D /* 3512. Minimum Operations to Make Array Sum Divisible by K.swift */,
+				DD8906352E44892100BB766D /* 2037. Minimum Number of Moves to Seat Everyone.swift */,
+				DDF176222E45D4EC00E4DB57 /* 1365. How Many Numbers Are Smaller Than the Current Number.swift */,
+				DDF176232E45DC5200E4DB57 /* 1637. Widest Vertical Area Between Two Points Containing No Points.swift */,
+				DDF227E22E47919E0081A127 /* 3264. Final Array State After K Multiplication Operations I.swift */,
+				DDF227E32E47982E0081A127 /* 1389. Create Target Array in the Given Order.swift */,
+				DDF4FCAA2E49C682009728E1 /* 3065. Minimum Operations to Exceed Threshold Value I.swift */,
+				DDF4FCAB2E49CA72009728E1 /* 1688. Count of Matches in Tournament.swift */,
+				DDF4FCAC2E49CE69009728E1 /* 1313. Decompress Run-Length Encoded List.swift */,
+				DDF4FCAD2E49D610009728E1 /* 3162. Find the Number of Good Pairs I.swift */,
+				DD4DE42A300CACD700BB49F6 /* 66. Plus One.swift */,
+				DD4DE42C300CB6EE00BB49F6 /* 3898. Find the Degree of Each Vertex.swift */,
+				DD4DE42D3010BC1500BB49F6 /* 35. Search Insert Position.swift */,
+				DD4DE42E30111E4700BB49F6 /* 3925. Concatenate Array With Reverse.swift */,
+				DD4DE42F3011284400BB49F6 /* 3945. Digit Frequency Score.swift */,
+				DD4DE4303011FFF100BB49F6 /* 3783. Mirror Distance of an Integer.swift */,
+				DD4DE43130146ABA00BB49F6 /* 3668. Restore Finishing Order.swift */,
+				DD4DE43230147AE100BB49F6 /* 3838. Weighted Word Mapping.swift */,
+				DD4DE43330147CFE00BB49F6 /* 3701. Compute Alternating Sum.swift */,
+				DD4DE4343015D2CB00BB49F6 /* 3658. GCD of Odd and Even Sums.swift */,
+				DD4DE4353015D75700BB49F6 /* 3794. Reverse String Prefix.swift */,
+				DD4DE436301724E500BB49F6 /* 3516. Find Closest Person.swift */,
+				DD58CC612D6FE963003A826A /* 1021. Remove Outermost Parentheses.swift */,
 			);
 			path = "LeetCode. Easy. Mixed";
 			sourceTree = "<group>";
