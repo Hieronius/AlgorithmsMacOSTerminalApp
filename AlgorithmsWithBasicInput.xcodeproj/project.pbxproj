@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DD3A86E62AA4176D00A97E41 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD3A86E52AA4176D00A97E41 /* main.swift */; };
+		DDBE263730611F350013C963 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDBE263630611F350013C963 /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -324,6 +325,7 @@
 		DDB9042B2CF8098A00B07321 /* 122. Best Time to Buy and Sell Stock II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "122. Best Time to Buy and Sell Stock II.swift"; sourceTree = "<group>"; };
 		DDBB2E822D4B3391003D60A0 /* 48. Rotate Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "48. Rotate Image.swift"; sourceTree = "<group>"; };
 		DDBE2635305E653A0013C963 /* Diary */ = {isa = PBXFileReference; lastKnownFileType = text; path = Diary; sourceTree = "<group>"; };
+		DDBE263630611F350013C963 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		DDC553572D2B83C4003B4A95 /* 12. Integer to Roman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12. Integer to Roman.swift"; sourceTree = "<group>"; };
 		DDC8EFBE2ACA61D3005602A4 /* 1790. Check if One String Swap Can Make Strings Equal. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1790. Check if One String Swap Can Make Strings Equal. LeetCode.swift"; sourceTree = "<group>"; };
 		DDC8EFC02ACA6EBB005602A4 /* 2259. Remove Digit From Number to Maximize Result. LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2259. Remove Digit From Number to Maximize Result. LeetCode.swift"; sourceTree = "<group>"; };
@@ -397,6 +399,7 @@
 				DD7DB2032C85443A004A3B1F /* HowToApproachJobInterviewAlgorithms.swift */,
 				DDBE2635305E653A0013C963 /* Diary */,
 				DD3A86E52AA4176D00A97E41 /* main.swift */,
+				DDBE263630611F350013C963 /* Test.swift */,
 				DD91361D2AC2FDFA00C9C969 /* JobResume */,
 				DD8FECBA2AB1477800676CAE /* Algorithms */,
 				DD8FECB92AB1475F00676CAE /* String.LeetCode */,
@@ -890,6 +893,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD3A86E62AA4176D00A97E41 /* main.swift in Sources */,
+				DDBE263730611F350013C963 /* Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
